@@ -18,7 +18,7 @@ export default function Card(props){
         }
         
       </ul>
-      <a href="#" className="btn btn-block btn-primary text-uppercase" onClick={localButton}>BUY</a>
+      <a className="btn btn-block btn-primary text-uppercase" onClick={localButton}>BUY</a>
     </div>
   </div>
 </div>
